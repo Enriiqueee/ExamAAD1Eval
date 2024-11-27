@@ -32,6 +32,4 @@ class MockEx1RemoteDataSource {
             Services("4", "Chaqueta")
         )
     }
-
-
 }
